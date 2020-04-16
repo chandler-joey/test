@@ -1,5 +1,5 @@
 userpreferences:
-  baseUrl: http://ivpui-userpref-service-haproxy:8092
+  baseUrl: http://ipaddr:3000
   api:
     getUsers:
       method: GET
