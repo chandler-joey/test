@@ -3,5 +3,5 @@ userpreferences:
   api:
     getUsers:
       method: GET
-      uri: "/friends"
+      uri: "/test"
 
