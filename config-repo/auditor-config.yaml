@@ -1,5 +1,5 @@
 userpreferences:
-  baseUrl: http://localhost:8093
+  baseUrl: http://localhost:3000
   api:
     getUsers:
       method: GET
